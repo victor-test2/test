@@ -1,4 +1,5 @@
 #include <stdio.h>
+#define DEBUG 0
 
 char* pangrams(char* s) {
     int res=0;
